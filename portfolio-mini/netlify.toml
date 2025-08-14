@@ -1,0 +1,11 @@
+[[redirects]]
+from="/projects"
+to="/work/"
+status=301
+force=true
+
+[[redirects]]
+from="/kontakt"
+to="/contact/"
+status=301
+force=true
